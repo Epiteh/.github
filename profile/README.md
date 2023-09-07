@@ -1,12 +1,8 @@
-## Epiteh
+## Epiteh 🌿
+Epiteh is a student group at [Epitech Nantes](https://www.epitech.eu/fr/ecole-informatique-nantes/?gad=1&gclid=CjwKCAjw6eWnBhAKEiwADpnw9gOxdlDSbAs156eiT-U2ob_YKbUaz12VmfdIFibAfIcF70Tlt1M1WhoCsgAQAvD_BwE).  
+Here you'll find the projects we've been working on.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Members 👥
+- [tilu](https://github.com/TiluWeb)  
+- [fanfouette](https://github.com/fanfouette)  
+- [hodooos](https://github.com/hodooos)  
