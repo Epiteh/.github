@@ -5,4 +5,4 @@ Here you'll find the projects we've been working on.
 ## Members 👥
 - [tilu](https://github.com/TiluWeb)  
 - [fanfouette](https://github.com/fanfouette)  
-- [hodooos](https://github.com/hodooos)  
+- [hodos](https://github.com/hodooos)  
